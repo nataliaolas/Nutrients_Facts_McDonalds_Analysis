@@ -1,3 +1,17 @@
+The data on which I carried out the analysis are data containing information about the meals offered by McDonald's restaurants.
+## About Project
+My analysis consisted of answering the questions:
+* Which McDonalds items are the most calories? I created ranking
+* How many calories does the average McDonald's meal contain?
+* Average amount of saturated fat compared to the maximum amount recommended for an adult diet
+* Average amount of sugares compared to the maximum amount recommended for an adult diet
+* Average amount of cholesterol compared to the maximum amount recommended for an adult diet
+* Correlation between nutritions
+* Meal with the most amount of protein
+* The most calories desserts
+* Ranking by proteins
+
+
 ## About dataset
 The data on which I carried out the analysis are data containing information about the meals offered by McDonald's restaurants, and specifically the nutrients they contain like:
 * Item
@@ -23,17 +37,6 @@ The data on which I carried out the analysis are data containing information abo
 * Calcium (% Daily Value)
 * Iron (% Daily Value)
 
-## About Project
-My analysis consisted of answering the questions:
-* Which McDonalds items are the most calories? I created ranking
-* How many calories does the average McDonald's meal contain?
-* Average amount of saturated fat compared to the maximum amount recommended for an adult diet
-* Average amount of sugares compared to the maximum amount recommended for an adult diet
-* Average amount of cholesterol compared to the maximum amount recommended for an adult diet
-* Correlation between nutritions
-* Meal with the most amount of protein
-* The most calories desserts
-* Ranking by proteins
 
 ## Technologies
 * Python 3.0
